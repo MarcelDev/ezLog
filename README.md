@@ -25,11 +25,15 @@ int main() {
 # Format
 Remember to properly capitalize the characters!!
 Year %y
+
 Month %m
+
 Day %d
 
 Hour %H
+
 Minute %M
+
 Second %S
 
 Logger name %lN
