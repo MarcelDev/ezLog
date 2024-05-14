@@ -24,6 +24,7 @@ int main() {
 
 # Format
 Remember to properly capitalize the characters!!
+
 Year %y
 
 Month %m
