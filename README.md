@@ -37,7 +37,9 @@ Minute %M
 Second %S
 
 Logger name %lN
+
 Log message %lM
+
 Log level %lL
 
 # Bugs
